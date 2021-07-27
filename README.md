@@ -8,7 +8,7 @@ https://flight-rate-prediction-app.herokuapp.com/predict
 # Tech
 1. Front-End: HTML, CSS, Bootstrap
 2. Back-End: Flask
-3. IDE: Google colab, PyCharm
+3. IDE: Google colab, VSCode
 
 
 # Screenshot:
