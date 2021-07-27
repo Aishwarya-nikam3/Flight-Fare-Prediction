@@ -3,7 +3,7 @@ Flight ticket Prediction is an application which predicts the flight ticket pric
 
 
 # Website Link
-
+https://flight-rate-prediction-app.herokuapp.com/predict
 
 # Tech
 1. Front-End: HTML, CSS, Bootstrap
@@ -12,8 +12,9 @@ Flight ticket Prediction is an application which predicts the flight ticket pric
 
 
 # Screenshot:
-![ss1](https://user-images.githubusercontent.com/75825851/127053847-77d4a553-14ee-4b89-80fe-9400091c0cf9.PNG)
-![ss2](https://user-images.githubusercontent.com/75825851/127053890-2a2c4c65-f7ed-45b9-b839-28096343f2ee.PNG)
+![Capture](https://user-images.githubusercontent.com/75825851/127095406-48711144-647e-48ca-b07a-d172b44c46d1.PNG)
+![Capture1](https://user-images.githubusercontent.com/75825851/127095414-cee59044-f9df-4e7b-99cf-99d0d8fa66fa.PNG)
+
 
 
 # Directory Tree
