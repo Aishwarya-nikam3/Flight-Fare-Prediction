@@ -35,9 +35,9 @@ https://predicting-flight-price.herokuapp.com/predict
 ```
 
 
-# Kaggle Dataset:
+# Kaggle Dataset
  https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh.
  
  
-# LinedIn Profile link:
+# LinedIn Profile link
 https://www.linkedin.com/in/aishwarya-nikam-7b19691bb/
