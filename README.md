@@ -1,5 +1,5 @@
 # Flight_Rate_Prediction
-Flight ticket Prediction is an application which predicts the flight ticket price based on which Airline you book, and does it has any stop(s) between Source and Destination location. I have used the Flight Fare Prediction dataset. Dataset link: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh. This project is tested over Random Forest Regressor.
+Flight ticket Prediction is an application which predicts the flight ticket price based on which Airline you book, and does it has any stop(s) between Source and Destination location. I have used the Flight Fare Prediction dataset.This project is tested over Random Forest Regressor.<br/><br/> Dataset link: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh. 
 
 
 # Website Link
