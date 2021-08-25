@@ -11,7 +11,7 @@ https://predicting-flight-price.herokuapp.com/predict
 3. IDE: Google colab, VSCode
 
 
-# Screenshot:
+# Screenshot
 ![ss1](https://user-images.githubusercontent.com/75825851/127730522-d59beb59-80b4-4814-a2ef-04077d2e6cf7.PNG)
 ![ss2](https://user-images.githubusercontent.com/75825851/127730524-12e1f2a6-9c57-4268-80c3-3d06ecb40574.PNG)
 
